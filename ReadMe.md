@@ -23,14 +23,17 @@ Chai, Render.
 
 ## Repository structure
 
-The root of the repo holds **only** these four entries (Lab 8, item 8):
+The root of the repo holds **only** these four entries (Lab 8, item 8). Open any folder to
+see what goes in it.
 
-```
-TeamMeetingLogs/        minutes of every weekly TA meeting, in one file updated each week
-MilestoneSubmissions/   the project proposal and every later course document
-ProjectSourceCode/      the application: code, Docker setup, tests, and its .gitignore
-ReadMe.md               this file
-```
+| Entry | What goes in it |
+| --- | --- |
+| [`TeamMeetingLogs/`](TeamMeetingLogs/) | Minutes of every weekly TA meeting, in one file updated each week |
+| [`MilestoneSubmissions/`](MilestoneSubmissions/) | The proposal, weekly release notes, and the final presentation and report |
+| [`ProjectSourceCode/`](ProjectSourceCode/) | The application: code, Docker setup, tests, and its `.gitignore` |
+| `ReadMe.md` | This file |
+
+Project board: `<link to the GitHub project board>` *(set up in Lab 9; it must be public)*
 
 Two things that are easy to get wrong:
 
