@@ -1,11 +1,6 @@
-# Shelf — Team 012-0
+# test — Team 012-0
 
-> **This is a sample repository**, made by your TA to show how a CSCI 3308 project repo is
-> laid out after Lab 8. Team 012-0 and the Shelf app are made up. Copy the *structure*, not the
-> content.
-
-Shelf lets the residents of one dorm floor lend each other books. You list what's on your
-shelf, browse everyone else's, and send a borrow request. Shelf keeps track of who has what.
+> **This is a sample repository**
 
 ## Contributors
 
