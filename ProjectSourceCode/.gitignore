@@ -1,3 +1,5 @@
+# This file goes in ProjectSourceCode/, not the repo root (Lab 8, item 8).
+
 # Dependencies are installed inside the container; never commit them.
 node_modules/
 

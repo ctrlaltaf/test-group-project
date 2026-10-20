@@ -62,8 +62,12 @@ who has which book.
 Repository: https://github.com/ctrlaltaf/test-group-project
 
 The repo is public, and every team member has been added as a collaborator. The root holds only
-`TeamMeetingLogs/`, `MilestoneSubmissions/`, `ProjectSourceCode/` and `ReadMe.md`. The
-`.gitignore` is inside `ProjectSourceCode/`.
+these four entries:
+
+- [`TeamMeetingLogs/`](../TeamMeetingLogs/) — weekly TA meeting minutes
+- [`MilestoneSubmissions/`](../MilestoneSubmissions/) — this proposal and later course documents
+- [`ProjectSourceCode/`](../ProjectSourceCode/) — the application, with its `.gitignore`
+- [`ReadMe.md`](../ReadMe.md)
 
 ## 9. Development Methodology
 
