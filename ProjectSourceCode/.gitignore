@@ -1,0 +1,11 @@
+# Dependencies are installed inside the container; never commit them.
+node_modules/
+
+# The project guide asks for this one to be ignored too.
+package-lock.json
+
+# Database passwords, session secrets and API keys.
+.env
+
+# macOS
+.DS_Store
